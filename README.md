@@ -1,4 +1,4 @@
-# <a name="top"></a>The 6th Champion
+# <a name="top"></a>The 6th Champion - Portfolio
 ![The 6th Champion banner](T6c-non-dispersed.png)
 ## What's new?
 
