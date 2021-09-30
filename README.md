@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# <a name="top"></a>The 6th Champion
+![The 6th Champion banner](T6c-black-dispersed.png)
+## What's new?
 
-You can use the [editor on GitHub](https://github.com/The-6th-Champion/me/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Nothing Much, just taking an [AI class](https://cs50.harvard.edu/ai/2020/), and doing some other random things. Like this profile :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
 
-### Markdown
+I'm an aspiring software and game developer in the Western US. You can check out my [github](https://github.com/The-6th-Champion) if you want, but there isn't much to *c*. 😏
+<br><br>
+I like puns of all kinds. they are quite `class`y. I also like editing images, but they don't always come out too good.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Projects
+- [QuickUnix](https://github.com/The-6th-Champion/unix-quick-stamper)
+- More coming soon™️!
 
-```markdown
-Syntax highlighted code block
+## Contact Me
 
-# Header 1
-## Header 2
-### Header 3
+### Discord:
+* Tag - The 6th Champion#0209
+* Server - [\<Insert Server Here\>](https://discord.gg/emZ4j4hS23)
 
-- Bulleted
-- List
+### Email:
+* Coming soon™️
 
-1. Numbered
-2. List
+### Twitter
+* Imagine twitter
 
-**Bold** and _Italic_ and `Code` text
+### Instagram
+* Imagine insta
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/The-6th-Champion/me/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="#top"><img src="clickx3.png"></img></a><br><p>click that ^</p>
