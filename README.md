@@ -31,4 +31,6 @@ I like puns of all kinds. they are quite `class`y. I also like editing images, b
 
 
 
-<a href="#top"><img src="clickx3.png"></img></a><br><p>click that ^</p>
+<a href="#top"><img src="clickx3.png"></a>
+<br>
+click that ^
