@@ -1,5 +1,5 @@
 # <a name="top"></a>The 6th Champion
-![The 6th Champion banner](T6c-black-dispersed.png)
+![The 6th Champion banner](T6c-non-dispersed.png)
 ## What's new?
 
 Nothing Much, just taking an [AI class](https://cs50.harvard.edu/ai/2020/), and doing some other random things. Like this profile :)
