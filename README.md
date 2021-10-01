@@ -34,3 +34,6 @@ I like puns of all kinds. they are quite `class`y. I also like editing images, b
 <a href="#top"><img src="clickx3.png"></a>
 <br>
 click that ^
+A you can see, I like playing jokes and having random easter eggs in my stuff. see you around
+<br><br><br><br><br>
+###### [The-6th-Champion](https://github.com/The-6th-Champion) is the maintainer and owner yada yada yada
